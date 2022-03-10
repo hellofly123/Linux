@@ -72,6 +72,36 @@ LoL|218|3
   //C语言代码
   int main()
   {
-    return 0;
+  	printf("testing code...\n");
+  	return 0;
   }
 ```
+
+
+```bash
+   sudo su
+   echo "输出字符串"
+   cd "path"
+```
+
+```cpp
+   #include <iostream>
+   using namespace std;
+
+   int main(void)
+   {
+	cout << "输出字符串\n" << endl;
+   }
+```
+```python
+  import os
+```
+
+
+
+
+
+
+
+
+

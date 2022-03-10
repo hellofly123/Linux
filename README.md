@@ -63,3 +63,15 @@
 Csgo|198|1
 Pubg|98|2
 LoL|218|3
+
+## 插入代码片段
+
+```c
+  #include <stdio.h>
+  #include <stdlib.h>
+  //C语言代码
+  int main()
+  {
+    return 0;
+  }
+```

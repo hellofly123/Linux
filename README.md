@@ -108,6 +108,9 @@ LoL|218|3
 
 ## 文章中插入图片
 
+** 如果插入的图片是本地资源，无法在github上显示，需要将本地图片上传并生成网络图片url地址**
+
+
 ![wallpaper](D://Desktop://wallpaper.jpg "本地壁纸")
 ![wallpaper](https://s2.loli.net/2022/03/10/DZiPhmGgzr9SNWy.jpg "本地壁纸")
 
